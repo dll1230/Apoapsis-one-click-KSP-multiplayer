@@ -4,8 +4,17 @@
 Like FiveM for GTA or BeamMP for BeamNG, built on <a href="https://github.com/LunaMultiplayer/LunaMultiplayer">LunaMultiplayer</a>.</p>
 
 <p align="center">
+<a href="https://github.com/dll1230/Apoapsis-one-click-KSP-multiplayer/releases/latest"><img src="https://img.shields.io/github/v/release/dll1230/Apoapsis-one-click-KSP-multiplayer?label=version&color=22d3ee" alt="Latest version"></a>
+<a href="https://github.com/dll1230/Apoapsis-one-click-KSP-multiplayer/releases"><img src="https://img.shields.io/github/downloads/dll1230/Apoapsis-one-click-KSP-multiplayer/total?color=22d3ee" alt="Downloads"></a>
+<a href="https://discord.gg/yPf4jnb4yv"><img src="https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+<img src="https://img.shields.io/badge/KSP-1.12.x-blue" alt="KSP 1.12.x">
+<img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6" alt="Windows 10 and 11">
+</p>
+
+<p align="center">
 <a href="https://github.com/dll1230/Apoapsis-one-click-KSP-multiplayer/releases/latest"><b>⬇ Download the latest version</b></a> ·
-<a href="https://discord.gg/yPf4jnb4yv"><b>Discord</b></a>
+<a href="https://discord.gg/yPf4jnb4yv"><b>Discord</b></a> ·
+<a href="https://github.com/dll1230/Apoapsis-one-click-KSP-multiplayer/wiki"><b>Wiki</b></a>
 </p>
 
 ## What it does
@@ -16,6 +25,7 @@ Like FiveM for GTA or BeamMP for BeamNG, built on <a href="https://github.com/Lu
 - **Your Steam game stays untouched:** multiplayer runs from a separate copy, and your normal install is only ever read.
 - **Host from the launcher:** run your own servers, with guides for playing with friends or running a 24/7 VPS.
 - **Invite codes:** one code carries your address *and* your mod list.
+- **Discord status:** your friends see you're playing Apoapsis, and on which server.
 
 ## Screenshots
 
@@ -44,7 +54,7 @@ Requires Windows 10/11 (64-bit) and KSP 1.12.x. **This is a launcher, not a Game
 
 ## Help and bug reports
 
-Join the [Discord](https://discord.gg/yPf4jnb4yv) or open an [issue](https://github.com/dll1230/Apoapsis-one-click-KSP-multiplayer/issues). Please attach the log from *Settings → Logging & diagnostics*.
+Read the [wiki](https://github.com/dll1230/Apoapsis-one-click-KSP-multiplayer/wiki), join the [Discord](https://discord.gg/yPf4jnb4yv) or open an [issue](https://github.com/dll1230/Apoapsis-one-click-KSP-multiplayer/issues/new/choose). Please attach the zip from *Settings → Logging & diagnostics → Create bug report*.
 
 ## Licence
 
