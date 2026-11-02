@@ -1,0 +1,49 @@
+name: Bug report
+description: Something in Apoapsis isn't working
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! In Apoapsis, go to **Settings → Logging & diagnostics → Create bug report** and attach the zip below. It doesn't contain passwords.
+  - type: input
+    id: version
+    attributes:
+      label: Apoapsis version
+      description: Bottom-left of the launcher, for example 0.9.4
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: What were you doing?
+      options:
+        - Installing / first setup
+        - Browsing servers
+        - Joining a server
+        - Playing in-game
+        - Hosting a server
+        - Server mods
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you expected, what happened instead, and any error message.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open Servers
+        2. Join ...
+        3. ...
+  - type: textarea
+    id: report
+    attributes:
+      label: Bug report zip and screenshots
+      description: Drag the zip from Create bug report (and any screenshots) here.
