@@ -1,4 +1,4 @@
-<p align="center"><img src="screenshots/banner.png" alt="Apoapsis: one-click multiplayer for Kerbal Space Program"></p>
+<p align="center"><img src="banner.png" alt="Apoapsis: one-click multiplayer for Kerbal Space Program"></p>
 
 <p align="center"><b>One-click multiplayer for Kerbal Space Program.</b><br>
 Like FiveM for GTA or BeamMP for BeamNG, built on <a href="https://github.com/LunaMultiplayer/LunaMultiplayer">LunaMultiplayer</a>.</p>
@@ -21,16 +21,16 @@ Like FiveM for GTA or BeamMP for BeamNG, built on <a href="https://github.com/Lu
 
 <table>
 <tr>
-<td width="50%"><img src="screenshots/home.png" alt="Home screen"><br><sub><b>Home:</b> Quick Play, your last server and news</sub></td>
-<td width="50%"><img src="screenshots/server-browser.png" alt="Server browser"><br><sub><b>Server browser:</b> live public servers with players and ping</sub></td>
+<td width="50%"><img src="home.png" alt="Home screen"><br><sub><b>Home:</b> Quick Play, your last server and news</sub></td>
+<td width="50%"><img src="server-browser.png" alt="Server browser"><br><sub><b>Server browser:</b> live public servers with players and ping</sub></td>
 </tr>
 <tr>
-<td><img src="screenshots/join-with-server-mods.png" alt="Joining a modded server"><br><sub><b>Join:</b> the server's mods are downloaded and installed for you</sub></td>
-<td><img src="screenshots/hosting-guide.png" alt="Hosting guide"><br><sub><b>Host:</b> step-by-step guides for friends or a 24/7 server</sub></td>
+<td><img src="join-with-server-mods.png" alt="Joining a modded server"><br><sub><b>Join:</b> the server's mods are downloaded and installed for you</sub></td>
+<td><img src="hosting-guide.png" alt="Hosting guide"><br><sub><b>Host:</b> step-by-step guides for friends or a 24/7 server</sub></td>
 </tr>
 <tr>
-<td><img src="screenshots/invite-friends.png" alt="Invite friends"><br><sub><b>Invite codes:</b> share your address and mod list in one code</sub></td>
-<td><img src="screenshots/game-settings.png" alt="Game settings"><br><sub><b>Game settings:</b> graphics and audio for the multiplayer copy</sub></td>
+<td><img src="invite-friends.png" alt="Invite friends"><br><sub><b>Invite codes:</b> share your address and mod list in one code</sub></td>
+<td><img src="game-settings.png" alt="Game settings"><br><sub><b>Game settings:</b> graphics and audio for the multiplayer copy</sub></td>
 </tr>
 </table>
 
